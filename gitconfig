@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ahmedamine.achouri@gmail.com
+	name = amine achouri
